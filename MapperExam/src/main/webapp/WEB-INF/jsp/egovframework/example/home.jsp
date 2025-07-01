@@ -16,7 +16,7 @@
 <!-- 끼워넣기 -->
 <jsp:include page="/common/header.jsp" />
 <div class="page mt5">
-   Hello world!  
+   안녕
 </div>
 <!-- 꼬리말 -->
 <!-- jquery -->
